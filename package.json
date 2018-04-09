@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp1",
+  "version": "1.0.0",
+  "description": "this is my first node js application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monika-pant/nodeApp_1.git"
+  },
+  "author": "monika pant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monika-pant/nodeApp_1/issues"
+  },
+  "homepage": "https://github.com/monika-pant/nodeApp_1#readme"
+}
